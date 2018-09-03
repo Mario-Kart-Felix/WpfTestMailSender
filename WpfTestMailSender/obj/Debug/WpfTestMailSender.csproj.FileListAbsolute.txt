@@ -1,0 +1,40 @@
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.exe.config
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.csprojResolveAssemblyReference.cache
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\MainWindow.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\App.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender_MarkupCompile.cache
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender_MarkupCompile.lref
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.exe
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.pdb
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\MainWindow.baml
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.g.resources
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.Properties.Resources.resources
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.csproj.GenerateResource.Cache
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.exe
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.pdb
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\Theme.baml
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\App.baml
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendEndWindow.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendEndWindow.baml
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendSuccesfull.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendSuccesfull.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.exe.config
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.exe
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.pdb
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.exe
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\bin\Debug\WpfTestMailSender.pdb
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.csprojResolveAssemblyReference.cache
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\Theme.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\MainWindow.g.cs
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendEndWindow.g.cs
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendSuccesfull.g.cs
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\App.g.cs
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender_MarkupCompile.cache
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender_MarkupCompile.lref
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\App.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\MainWindow.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendEndWindow.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\SendSuccesfull.baml
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.g.resources
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.Properties.Resources.resources
+C:\Users\stryapkov\Desktop\WpfTestMailSender\WpfTestMailSender\obj\Debug\WpfTestMailSender.csproj.GenerateResource.Cache
